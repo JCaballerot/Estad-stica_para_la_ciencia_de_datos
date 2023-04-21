@@ -1,1 +1,1 @@
-# Estad-stica_para_la_ciencia_de_datos
+# Estadistica_para_la_ciencia_de_datos
